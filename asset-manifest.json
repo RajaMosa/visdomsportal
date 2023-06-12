@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/visdomsportal/static/css/main.5ba44e5d.css",
+    "main.js": "/visdomsportal/static/js/main.4ad5b1e6.js",
+    "static/js/787.3e07adda.chunk.js": "/visdomsportal/static/js/787.3e07adda.chunk.js",
+    "static/media/Nasjonsbyggeren.png": "/visdomsportal/static/media/Nasjonsbyggeren.5082b20bcf45efd9e203.png",
+    "static/media/Filosofen.png": "/visdomsportal/static/media/Filosofen.728bb4ec95152200bd40.png",
+    "static/media/Aktivisten.png": "/visdomsportal/static/media/Aktivisten.640196f3be0693e96710.png",
+    "static/media/Økosofen.png": "/visdomsportal/static/media/Økosofen.7b7b198944a3bd813e68.png",
+    "static/media/Fjellklatreren.png": "/visdomsportal/static/media/Fjellklatreren.d4b05787962c94f5ab65.png",
+    "static/media/arne-naess.jpeg": "/visdomsportal/static/media/arne-naess.f148192ae302532175ab.jpeg",
+    "static/media/arne-right2.png": "/visdomsportal/static/media/arne-right2.1e496e4568b03bd81f69.png",
+    "static/media/arne-left2.png": "/visdomsportal/static/media/arne-left2.f7e1e896c892e0871359.png",
+    "static/media/Professoren.png": "/visdomsportal/static/media/Professoren.45209fd95683e324b618.png",
+    "static/media/NavImg.png": "/visdomsportal/static/media/NavImg.dc19a271f5b8f41bb1a8.png",
+    "static/media/FremgangLogo.png": "/visdomsportal/static/media/FremgangLogo.c95d968986192519c768.png",
+    "static/media/AncepLogo3.png": "/visdomsportal/static/media/AncepLogo3.ce525be5dc04bad87d6e.png",
+    "static/media/SøkLogo.png": "/visdomsportal/static/media/SøkLogo.5c389030230e6a8b6516.png",
+    "static/media/NavigasjonLogo.png": "/visdomsportal/static/media/NavigasjonLogo.a562e3cd78686b08b254.png",
+    "static/media/slick.svg": "/visdomsportal/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/visdomsportal/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/visdomsportal/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/visdomsportal/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/visdomsportal/index.html",
+    "main.5ba44e5d.css.map": "/visdomsportal/static/css/main.5ba44e5d.css.map",
+    "main.4ad5b1e6.js.map": "/visdomsportal/static/js/main.4ad5b1e6.js.map",
+    "787.3e07adda.chunk.js.map": "/visdomsportal/static/js/787.3e07adda.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba44e5d.css",
+    "static/js/main.4ad5b1e6.js"
+  ]
+}
